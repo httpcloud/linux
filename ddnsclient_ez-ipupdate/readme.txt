@@ -1,0 +1,1 @@
+华为、中兴光猫中的 ddns client ez-ipupdate 移植在 Linux 上的可用版，远程接入无固定IP网络中常用。
